@@ -6,3 +6,6 @@ n-choose k etc
 n!/(n-k)!
 Student's t-test tests if two samples are from the same population
 Bayes is the same as aIb/bIa = a/b
+Unit 1 Sprint 3 is linalg
+probably not something to worry about
+numpy arrays, determinants, etc
