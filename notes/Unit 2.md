@@ -12,3 +12,7 @@ classification metrics: accuracy is correct over total
 precision is false positive rate
 recall is false negative rate
 importance is domain specific
+
+feature importance is flawed but fast
+random forest flaw is feature importances will overestimate high-cardinality feature importances
+gradient boosting can be better than random forests but more hyperparameter sensitivity
