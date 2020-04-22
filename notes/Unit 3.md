@@ -26,4 +26,6 @@ Consistency: Every transaction must take the database from one valid state to an
 Isolation: Concurrent and sequential transactions produce the same result
 Durability: Completed transactions will remain completed even in the case of a power failure or system crash
 BASE: Basically Available, Soft state, Eventually consistent
+FLASK
+pickling: builtin feature to dump an object in memory as a string or binary
 
