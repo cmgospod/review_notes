@@ -6,3 +6,4 @@
 7. Selection bias is bias introduced by nonrandom sampling of the target population.
 8. SVM is an algorithm attempting to create a hyperplane in n-space where n is the number of input variables, which divides the data as neatly as possible.
 9. Support vectors are vectors drawn from data points to the hyperplane. 
+10. Logistic regression is a linear regression of probability for being in each classification. It uses the sigmoid function to compress the linear regression into the domain (0,1)
